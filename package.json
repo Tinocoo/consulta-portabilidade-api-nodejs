@@ -1,0 +1,22 @@
+{
+  "name": "consulta-portabilidade-api",
+  "version": "1.0.0",
+  "description": "Demonstração de como consultar a portabilidade na API do site api-portabilidade.com.br",
+  "main": "app.js",
+  "scripts": {
+    "test": "haha - no!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bruno222/consulta-portabilidade-api-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bruno222/consulta-portabilidade-api-nodejs/issues"
+  },
+  "homepage": "https://github.com/bruno222/consulta-portabilidade-api-nodejs#readme",
+  "dependencies": {
+    "request": "^2.75.0"
+  }
+}
