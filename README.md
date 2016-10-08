@@ -36,3 +36,11 @@ cd consulta-portabilidade-api-nodejs
 npm install
 node app.js 
 ```
+
+## Search Keywords
+
+[api portabilidade](https://api-portabilidade.com.br)
+[consulta portabilidade](https://api-portabilidade.com.br)
+[consulta de operadora](https://api-portabilidade.com.br)
+
+
