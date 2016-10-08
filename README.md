@@ -1,13 +1,9 @@
-# API Consulta Portabilidade
+# API de Consulta à Portabilidade Numérica
 
 ## O que é
 
 Exemplo de como consultar a portabilidade na API do site [api-portabilidade.com.br](https://api-portabilidade.com.br)
  
-## É simples?
-
-Mais simples, impossível.
-
 [![consulta portabilidade](https://api-portabilidade.com.br/images/body/gifanimado2.gif)](https://api-portabilidade.com.br/)
 
 
@@ -32,6 +28,7 @@ consultaOperadora('1125254445', processaRetorno)
 ``` 
 
 ## Testando na sua máquina...
+(código foi feito no nodejs v6.6.0)
 
 ```sh
 git clone https://github.com/bruno222/consulta-portabilidade-api-nodejs.git
