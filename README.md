@@ -40,7 +40,7 @@ node app.js
 ## Search Keywords
 
 [api portabilidade](https://api-portabilidade.com.br)
-[consulta portabilidade](https://api-portabilidade.com.br)
-[consulta de operadora](https://api-portabilidade.com.br)
+[consulta portabilidade](https://api-portabilidade.com.br/#features)
+[consulta de operadora](https://api-portabilidade.com.br/#pricing)
 
 
